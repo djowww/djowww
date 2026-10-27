@@ -1,6 +1,6 @@
-# Olá, eu sou o Ricardo 👋
+# Olá, eu sou o Djow 👋
 
-Desenvolvo jogos e aplicações independentes, explorando mundos de RPG, experiências multiplayer e ferramentas para tornar ideias jogáveis.
+Desenvolvo aplicações independentes.
 
 ## Projetos em destaque
 
